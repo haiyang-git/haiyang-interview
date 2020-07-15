@@ -8,10 +8,5 @@
 [常用资源](https://github.com/haiyang-lv//)
 [GitHub](https://github.com/haiyang-lv/)
 
-## 个人联系方式
-* qq：1059894860
-* 微信号：haiyang-lwy
-* 二维码 ![](.\image\wechat.jpg)
-
 
 
