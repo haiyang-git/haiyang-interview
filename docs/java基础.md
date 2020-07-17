@@ -114,7 +114,6 @@ javac SynchronizedDemo.java -- 编译生成class文件
 javap -c -s -v -l SynchronizedDemo.class -- 查看字节码信息
 ```
 
-![](D:\haiyang\blog\synchronized关键字原理.png)
 
 从字节码中可以看出
 
@@ -130,7 +129,6 @@ public class SynchronizedDemo2 {
 }
 ```
 
-![](D:\haiyang\blog\synchronized关键字原理2.png)
 
 Synchronized 修饰的方法并没有 monitorenter 指令和 monitorexit 指令，取得代之的确实是 ACC_SYNCHRONIZED 标识，该标识指明了该方法是一个同步方法，JVM 通过该 ACC_SYNCHRONIZED 访问标志来辨别一个方法是否声明为同步方法，从而执行相应的同步调用。
 
