@@ -1,6 +1,4 @@
 ------
-# Java基础
-
 [TOC]
 
 ## String，StringBuilder，StringBuffer详解

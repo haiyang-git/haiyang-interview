@@ -6,7 +6,7 @@
 ## 王海洋
 ### 一只爱学习的程序员 
 
-[常用资源](https://github.com/haiyang-lv//)
+[常用资源](https://gitee.com/haiyang-lv/)
 [GitHub](https://github.com/haiyang-lv/)
 
 
