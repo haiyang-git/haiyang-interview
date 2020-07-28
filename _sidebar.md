@@ -1,21 +1,14 @@
 
-* [作者简介](./docs/作者简介.md)
-  * [简历](./docs/简历.md)
-* Java
-  * [Java基础](./docs/java基础.md)
-  * [Java集合](./docs/java集合.md)
-  * [Java多线程](./docs/java多线程.md)
-  * [jvm](./docs/jvm.md)
-* 数据库
-  * [MySQL](./docs/mysql.md)
-  * [Redis](./docs/redis.md)
-* 常用框架
-  * [Spring](./docs/spring.md)
-  * [MyBatis](./docs/mybatis.md)
-  * [Kafka](./docs/kafka.md)
-  * [Netty](./docs/netty.md)
-* 计算机基础
-  * [计算机网络](./docs/计算机网络.md)
-  * [数据结构](./docs/数据结构.md)
-  * [算法](./docs/算法.md)
-  * [操作系统](./docs/操作系统.md)
+* \* [作者简介](./docs/blog1-1作者简介.md)
+  
+    \* [简历](./docs/blog1-2简历.md)
+  
+  \* Java
+  
+    \* [Java基础](./docs/blog2-1java基础.md)
+  
+    \* [Java集合](./docs/blog2-2java集合.md)
+  
+    \* [Java多线程](./docs/blog2-3java多线程.md)
+  
+    \* [jvm](./docs/blog2-4jvm.md)
