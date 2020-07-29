@@ -1,8 +1,8 @@
 
-* [作者简介](./docs/blog1-1作者简介.md)
-  
-  * [简历](./docs/blog1-2简历.md)
-  
+* [作者简介](./docs/blog0-1作者简介.md)
+* [简历](./docs/blog0-2简历.md)
+* 整理日记
+  * [属性赋值-mapstruct](./docs/blog1-1mapstruct.md)
 * Java
   
   * [Java基础](./docs/blog2-1java基础.md)
